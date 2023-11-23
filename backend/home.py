@@ -21,7 +21,7 @@ def home():
 
     <main>
         <div>
-            <h1>Bem vindo ao MacrosDB</h1>
+            <h1>Bem vindo ao MacrosBD</h1>
             <p>Este aplicativo reúne informações sobre os macronutrientes dos alimentos que você ingere no dia a dia. Se quiser saber um pouco mais sobre sua nutrição diária, sinta-se a vontade para pesquisar no nosso banco de dados.</p>
         </div>
         <section>
